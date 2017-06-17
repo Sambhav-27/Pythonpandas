@@ -1,0 +1,1 @@
+C:\Users\sambhav\AppData\Local\Programs\Python\Python35-32\Scripts\pip.exe install
